@@ -19,7 +19,7 @@ class DatabaseSeeder extends Seeder
             ['email' => 'ksayed118@gmail.com'],
             [
                 'name' => 'kazi abu sayed',
-                'password' => 'kazisayed',
+                'password' => 'password',
                 'role' => 'super admin',
                 'email_verified_at' => now(),
             ]
