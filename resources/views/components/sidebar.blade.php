@@ -106,6 +106,19 @@
             </span>
             <span class="nav-label">Profile</span>
         </a>
+
+        <!-- Install App -->
+        <a href="javascript:void(0)" class="nav-item pwa-install-trigger" style="cursor: pointer;">
+            <span class="nav-icon" style="color: var(--primary);">
+                <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <rect width="14" height="20" x="5" y="2" rx="2" ry="2"/>
+                    <path d="M12 18h.01"/>
+                    <path d="M12 6v6"/>
+                    <path d="m9 9 3 3 3-3"/>
+                </svg>
+            </span>
+            <span class="nav-label">Install Mobile App</span>
+        </a>
     </nav>
 
     <!-- Sidebar User Footer -->
